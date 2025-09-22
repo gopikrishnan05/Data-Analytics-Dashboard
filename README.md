@@ -1,2 +1,5 @@
-# Data-Analytics-Dashboard
-This Health Analysis Report shows a 19.37% heart disease rate with a 5K high-risk count. Cholesterol and BMI remain consistent across age groups, while stress, sleep, and family history impact risks. Blood pressure trends decline with age, and high LDL patients show higher triglycerides. 
+# Health Analysis Report 
+# Project Objective 
+The objective of this project is to analyze health data to identify key factors contributing to heart disease. By examining demographics, lifestyle habits, cholesterol, triglycerides, blood pressure, BMI, stress, and sleep patterns, the goal is to uncover risk trends, support early detection, and provide insights for preventive healthcare strategies.
+
+
